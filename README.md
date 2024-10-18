@@ -1,7 +1,11 @@
-## 🌐 Socials
+## 🌍 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/f4t1hsalih) 
- 
-# 💻 Tech Stack:
+
+# 💻 Hakkımda
+Software Developer | Web Designer | Database Administrator
+Hello! I’m Salih Doğan, a software developer living in Istanbul. I am working on projects related to ASP.NET, C#, and web technologies.
+
+# 🔧 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -18,11 +22,17 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%2302A94C.svg?style=for-the-badge&logo=aspdotnetcore&logoColor=white) 
 ![Fluent Validation](https://img.shields.io/badge/Fluent%20Validation-%234B8BBE.svg?style=for-the-badge&logo=fluent&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%234B8BBE.svg?style=for-the-badge&logo=sql&logoColor=white)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=f4t1hsalih&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=f4t1hsalih&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=f4t1hsalih&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=f4t1hsalih&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 🗃️ GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=f4t1hsalih&show_icons=true&theme=dark&count_private=false&card_width=496)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=f4t1hsalih&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=496)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=f4t1hsalih&theme=dark&hide&card_width=1000_border=false)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=f4t1hsalih&icon=0&color=9)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
