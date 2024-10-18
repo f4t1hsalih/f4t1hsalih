@@ -27,6 +27,7 @@ Hello! I’m Salih Doğan, a software developer living in Istanbul. I am working
 ![](https://github-readme-stats.vercel.app/api?username=f4t1hsalih&show_icons=true&theme=dark&count_private=false&card_width=423)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=f4t1hsalih&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=403)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=f4t1hsalih&theme=dark&hide&card_width=1000_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=f4t1hsalih&theme=dark&card_width=1000&card_height=200)]
 ---
 [![](https://visitcount.itsvg.in/api?id=f4t1hsalih&icon=0&color=9)](https://visitcount.itsvg.in)
 
