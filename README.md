@@ -19,7 +19,8 @@
 ![Fluent Validation](https://img.shields.io/badge/Fluent%20Validation-%234B8BBE.svg?style=for-the-badge&logo=fluent&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%234B8BBE.svg?style=for-the-badge&logo=sql&logoColor=white)
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=f4t1hsalih&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=f4t1hsalih&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=f4t1hsalih&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=f4t1hsalih&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=f4t1hsalih&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
